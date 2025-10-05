@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Desert and I'm a passionate unknown developer from World</h2>
+<h2 align="left">Hi 👋! My nickname is BlackDesert and I'm a passionate unknown developer from World</h2>
 
 ###
 
